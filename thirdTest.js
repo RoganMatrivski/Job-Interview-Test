@@ -13,7 +13,6 @@ function hasDuplicates(array) {
 
 function solution(relation) {
     let columnData = Array.from({ length: relation[0].length }, () => []);
-    // const possibleColumn = Array.from(Array(relation[0].length).keys()); // [0, 1, 2, ..., N]
     let candidateKey = 0;
 
     for (const row of relation) {
