@@ -12,9 +12,7 @@
     },
     "author": "Robin Mauritz Languju",
     "license": "ISC",
-    "dependencies": {
-        "lodash": "^4.17.15"
-    },
+    "dependencies": {},
     "devDependencies": {
         "eslint": "^6.8.0",
         "eslint-config-airbnb-base": "^14.0.0",
